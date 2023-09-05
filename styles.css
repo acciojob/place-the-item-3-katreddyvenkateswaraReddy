@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-#holder {
+.holder {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-#holder > * {
+.holder > * {
     margin-right: 10px; /* Adjust the margin as needed */
 }
